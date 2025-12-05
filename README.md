@@ -1,6 +1,6 @@
 # 🎮 C# Console Mini-Game Challenge
 
-![Gameplay Preview](/ss.png)
+![Gameplay Preview](/video.gif)
 *(Upload an image of your game here, e.g., screenshot.png)*
 
 ## 📝 Description
@@ -77,3 +77,4 @@ If you have any questions about the code or suggestions for improvement, feel fr
 ---
 
 *This project is for educational purposes to test C# procedural programming skills.*
+
